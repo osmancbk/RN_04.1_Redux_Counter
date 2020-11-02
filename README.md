@@ -1,2 +1,4 @@
-# RN_04.1_Redux_Counter
-ReactNative Redux Works
+# React Native Redux Works
+</hr>
+
+<img src="./src/assets/redx.gif" alt="redux" height=600 >
